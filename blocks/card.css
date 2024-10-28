@@ -1,0 +1,13 @@
+.card__image {
+  height: 413px;
+  width: 413px;
+  border-radius: 8px;
+  display: block;
+}
+
+.card__like-btn {
+  margin-left: auto;
+  /* width: 23px;
+  height: 20px; */
+  opacity: 40%;
+}
