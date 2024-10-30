@@ -3,19 +3,14 @@
 }
 
 .cards__list {
-  display: flex;
+  display: grid;
   flex-wrap: wrap;
   gap: 40px 20px;
   list-style-type: none;
   padding: 0;
   margin: 0;
   justify-content: center;
-}
-
-.card__content {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
+  grid-template-columns: repeat(auto-fit, 413px);
 }
 
 .card__like-btn {
