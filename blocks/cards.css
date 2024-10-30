@@ -6,14 +6,16 @@
   display: flex;
   flex-wrap: wrap;
   gap: 40px 20px;
-  justify-content: space-evenly;
   list-style-type: none;
   padding: 0;
   margin: 0;
+  justify-content: center;
 }
 
 .card__content {
   display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 .card__like-btn {
