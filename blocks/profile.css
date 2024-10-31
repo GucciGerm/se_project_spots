@@ -45,6 +45,16 @@
 
 .profile__add-btn {
   margin-left: auto;
+  background-color: #212121;
+  border-radius: 8px;
+  width: 157px;
+  height: 52px;
+  margin-top: 15%;
+  color: #fcf5e5;
+}
+
+.plus__logo {
+  margin-right: 7px;
 }
 
 @media screen and (max-width: 627px) {
@@ -65,6 +75,7 @@
   .profile__name {
     font-size: 20px;
     margin: 0 0 6px;
+    max-width: 288px;
   }
 
   .profile__column {
