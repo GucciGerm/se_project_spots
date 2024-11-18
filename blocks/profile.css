@@ -40,6 +40,7 @@
 }
 
 .profile__edit-btn {
+  margin-right: 300px;
   margin-top: auto;
   border: none;
   background-color: transparent;
@@ -55,7 +56,7 @@
   border-radius: 8px;
   width: 157px;
   height: 52px;
-  margin-top: 140px;
+  margin-top: auto;
   color: #fcf5e5;
 }
 
