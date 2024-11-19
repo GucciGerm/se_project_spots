@@ -40,7 +40,7 @@
 }
 
 .profile__edit-btn {
-  margin-right: 300px;
+  display: flex;
   margin-top: auto;
   border: none;
   background-color: transparent;
@@ -82,11 +82,11 @@
   .profile__name {
     font-size: 20px;
     margin: 0 0 6px;
-    max-width: 288px;
   }
 
   .profile__column {
     margin: 0 0 20px;
+    align-items: center;
   }
 
   .profile__description {
