@@ -3,12 +3,23 @@
   width: 100%;
   border-radius: 8px;
   display: block;
+  object-fit: cover;
+}
+
+.card__title {
+  color: rgba(33, 33, 33, 1);
+  font-weight: 500;
+  line-height: 0.83;
+  font-size: 20px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
 }
 
 .card__like-btn {
   margin-left: auto;
-  /* width: 23px;
-  height: 20px; */
+  width: 23px;
+  height: 20px;
   opacity: 40%;
 }
 
@@ -21,5 +32,10 @@
 @media screen and (max-width: 627px) {
   .card__image {
     height: 288px;
+  }
+
+  .card__title {
+    font-size: 16px;
+    line-height: 16px;
   }
 }
