@@ -9,7 +9,7 @@
 .card__title {
   color: rgba(33, 33, 33, 1);
   font-weight: 500;
-  line-height: 0.83;
+  line-height: 24px;
   font-size: 20px;
   text-overflow: ellipsis;
   white-space: nowrap;
@@ -22,6 +22,8 @@
   width: 23px;
   height: 20px;
   opacity: 40%;
+  background-color: transparent;
+  border: none;
 }
 
 .card__content {
