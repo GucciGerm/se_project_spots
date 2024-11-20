@@ -38,6 +38,8 @@
   -webkit-box-orient: vertical;
   max-width: 420px;
   color: rgba(33, 33, 33, 0.7);
+  font-size: 16px;
+  line-height: 16px;
 }
 
 .profile__edit-btn {
@@ -45,22 +47,27 @@
   margin-top: auto;
   border: none;
   background-color: transparent;
-  color: rgba(33, 33, 33, 0.7);
+  color: rgba(33, 33, 33);
+  opacity: 0.7;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 16px;
 }
 
 .edit__logo {
   margin-right: 7px;
-  opacity: 70%;
 }
 
 .profile__add-btn {
   margin-left: auto;
   background-color: #212121;
-  border-radius: 8px;
   width: 157px;
   height: 52px;
   margin-top: auto;
   color: #fcf5e5;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 16px;
 }
 
 .plus__logo {
@@ -100,8 +107,5 @@
     margin: 0;
     width: 100%;
     padding: 18px 18px 32px 32px;
-    border-radius: 8px;
-    background-color: #212121;
-    color: #fcf5e5;
   }
 }
