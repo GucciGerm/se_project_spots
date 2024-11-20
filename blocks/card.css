@@ -39,4 +39,9 @@
     font-size: 16px;
     line-height: 16px;
   }
+
+  .card__like-btn {
+    width: 20px;
+    height: 18px;
+  }
 }
