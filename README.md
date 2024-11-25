@@ -18,4 +18,4 @@ When you run this program, you will be able to run a webpage where when you hove
 
 ## Images
 
-![Images] (https://imgflip.com/gif/9bmhm4)
+![Images] (images/responsive_compressed.gif)
