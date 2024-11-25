@@ -25,6 +25,7 @@
   background-color: transparent;
   background-image: url(images/heart.svg);
   border: none;
+  padding-right: 22px;
 }
 
 .card__like-btn:hover {
