@@ -4,7 +4,7 @@ This project is made so all the elements are displayed correctly on popular scre
 
 ## Project features
 
-- Hover capablity
+- Hover capability
 - Flexbox
 - Semantic HTMLS
 
@@ -15,3 +15,5 @@ When you run this program, you will be able to run a webpage where when you hove
 ## Link to Github
 
 [Link to project Spots on Github](https://github.com/GucciGerm/se_project_spots)
+
+##Images
