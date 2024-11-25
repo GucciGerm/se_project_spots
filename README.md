@@ -14,6 +14,8 @@ When you run this program, you will be able to run a webpage where when you hove
 
 ## Link to Github
 
-[Link to project Spots on Github](https://github.com/GucciGerm/se_project_spots)
+[Link to project Spots on Github](https://guccigerm.github.io/se_project_spots/)
 
-##Images
+## Images
+
+![Images] ()
