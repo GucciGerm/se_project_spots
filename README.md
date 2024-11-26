@@ -10,7 +10,7 @@ This project is made so all the elements are displayed correctly on popular scre
 
 ## Deployment
 
-When you run this program, you will be able to run a webpage where when you hover over the two buttons they can shades.
+When you run this program, you will be able to run a responsive webpage where when you hover over the two buttons they can shades.
 
 ## Link to Github
 
