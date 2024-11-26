@@ -11,3 +11,13 @@
   font-weight: 500;
   src: url("./fonts/Poppins-Medium.ttf") format("truetype");
 }
+
+body {
+  font-family: "Poppins", Arial, Helvetica, sans-serif;
+}
+
+h1,
+h2,
+h3 {
+  font-family: "Poppins", Verdana, Geneva, sans-serif;
+}
