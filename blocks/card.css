@@ -15,6 +15,7 @@
   white-space: nowrap;
   overflow: hidden;
   margin: 0;
+  max-width: 353px;
 }
 
 .card__like-btn {
