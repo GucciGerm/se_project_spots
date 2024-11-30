@@ -85,6 +85,7 @@
   border-radius: 8px;
   padding-left: 25px;
   padding-right: 10px;
+  border: none;
 }
 
 .profile__add-btn:hover {
