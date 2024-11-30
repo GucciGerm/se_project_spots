@@ -1,12 +1,14 @@
 # Project Name: Spots
 
-This project is made so all the elements are displayed correctly on popular screen sizes. The site was created using HTML and CSS.
+## Project features // Technology used
 
-## Project features
+Spots is an interactive social media web application where you can add photos, remove photos, like other users pictures, and make a customized profile.
+The site was created using HTML and CSS.
 
 - Hover capability
 - Flexbox
 - Semantic HTMLS
+- CSS
 
 ## Deployment
 
